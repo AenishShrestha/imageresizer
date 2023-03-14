@@ -7,7 +7,7 @@ import streamlit.components.v1 as components
 st.set_page_config(layout="wide", page_title="Image Resizer")
 
 BADGES = """
-<a href="https://gitHub.com/" title="Star Repo" target="_blank"><img src="https://img.shields.io/github/stars/lukasmasuch/streamlit-pydantic.svg?logo=github&style=social"></a>
+<a href="https://github.com/AenishShrestha/imageresizer" title="Star Repo" target="_blank"><img src="https://img.shields.io/github/stars/lukasmasuch/streamlit-pydantic.svg?logo=github&style=social"></a>
 <a href="https://twitter.com/aenish_shrestha" title="Follow on Twitter" target="_blank"><img src="https://img.shields.io/twitter/follow/lukasmasuch.svg?style=social&label=Follow"></a>
 """
 st.markdown(BADGES, unsafe_allow_html=True)
