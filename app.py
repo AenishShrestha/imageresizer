@@ -12,7 +12,7 @@ BADGES = """
 """
 st.markdown(BADGES, unsafe_allow_html=True)
 st.title("Resize Your Image")
-st.markdown("*Images are resized in the multiple of 64 and max width or max height of 1024. [ Check Out My Code ](www.google.com)*")
+st.markdown("*Images are resized in the multiple of 64 with max width or max height of 1024. [ Check Out My Code Here ](https://github.com/AenishShrestha/imageresizer)*")
 
 # Download the fixed image
 @st.cache_data
